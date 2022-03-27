@@ -35,7 +35,7 @@
 "applovinid":"388c5b1490ca6f96",
 "applovin":"off",
 "applotime":"8",
-"allbanner2":"open",
+"allbanner2":"off",
 "login":"close",
 "downads":"open",
 "darktv":"open",
@@ -44,4 +44,4 @@
 "swebtime":"9",
 "movie":"free",
 "hdwatch":"free",
-"vpn":"open"}
+"vpn":"off"}
